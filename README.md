@@ -11,3 +11,7 @@ Alteração vinda da master/main
 Alteração da develop
 
 Criei uma tela de vendas e ela está funcional
+
+## mais uma alteração/exercício
+
+teste
